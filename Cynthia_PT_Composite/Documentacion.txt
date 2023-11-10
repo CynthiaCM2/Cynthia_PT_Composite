@@ -1,0 +1,15 @@
+﻿1.- Nombre del proyecto
+Composite
+2.- Para que se utiliza
+Para construir objetos sobre otros objetos y entre si
+3.- La problematica que soluciona
+Para solucionar diferentes situaciones que derivan de los objetos ya creados y tienen que generar otros
+4.- Cuando debe ser utilizada
+Cuando se quieren crear diferentes clases sobre las mismas ya creadas y entre ellas mismas
+5.- Como se crea el prroyecto
+Se crea la clase abstracta donde se agregaran los metodos que se utilizaran para los diferentes objetos
+Se crea una clase derivada donde se ingresaran los datos que se mandaran al panel principal como  la unidad y cantidad con su tipo de objeto,
+Se crea otra clase derivada sobre la cual se trabajara como en este ejemplo seran pasteles, en ella se agregarran los objetos que se utilizaran para 
+que se agreguen los diferentes ingredientes y se remuevan, se agregan los objetos tambien para que se calculen los costos de cada pastel que se creara
+Y en la clase Program se ingresaran ya los datos que queremos que se visualicen en nuestro codigo al ejecutarlo, como ponerle la cantidad de litros, gramos,
+loc costos y se le agregan los codigos que nos ayudaran a sumar los costos de los diferentes pasteles.
